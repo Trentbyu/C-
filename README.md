@@ -8,7 +8,7 @@ This software demonstrates the basics of C++ using Variables, Expressions, Condi
 # Development Environment
 <br>
 I used vs code to write the software and gcc to complie it 
-I used c++ and and vector, fstream, and string libary 
+I used c++ and and vector, fstream, gtk/gtl.h and string libary 
 # Useful Websites
 <br>
 
