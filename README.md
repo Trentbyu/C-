@@ -11,7 +11,7 @@ I used vs code to write the software and gcc to complie it
 I used c++ and and vector, fstream, and string libary 
 # Useful Websites
 <br>
-{Make a list of websites that you found helpful in this project}
+
 * [geeksforgeeks](https://www.geeksforgeeks.org/)
 * [w3schools](https://www.w3schools.com/)
 <br>
