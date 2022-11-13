@@ -15,9 +15,11 @@ I used c++ and and vector, fstream, and string libary
 * [geeksforgeeks](https://www.geeksforgeeks.org/)
 * [w3schools](https://www.w3schools.com/)
 <br>
+
 # Future Work
+
 <br>
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 * Add more functions to the GUI 
 * Add more data structures 
 * Make more comments
