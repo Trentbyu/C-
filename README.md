@@ -1,30 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the software that you wrote to demonstrate the C++ language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
+This software demonstrates the basics of C++ using Variables, Expressions, Conditionals, Loops, Functions, Classes, Data structure from STL. I want to understand c+++ better and a good way at doing so is by using it.This software shows how to use all of the basics in C++. The purpose for writing this software is to pratice and become better at it.
 [Software Demo Video](https://youtu.be/2_W7n2BHRNA)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
-
+I used vs code to write the software and gcc to complie it 
+I used c++ and and vector, fstream, and string libary 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [geeksforgeeks](https://www.geeksforgeeks.org/)
+* [w3schools](https://www.w3schools.com/)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add more functions to the GUI 
+* Add more data structures 
+* Make more comments
